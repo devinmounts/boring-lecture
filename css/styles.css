@@ -1,11 +1,5 @@
-p.intro {
+.intro {
   font-style: italic;
-  text-decoration: underline;
-  text-decoration-color: pink;
-}
-h2.intro {
-  color: gray;
-}
-img.intro {
   filter: grayscale(100%);
+  color: gray;
 }
