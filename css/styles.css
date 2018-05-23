@@ -1,9 +1,11 @@
 p.intro {
-  font-style: oblique;
+  font-style: italic;
+  text-decoration: underline;
+  text-decoration-color: pink;
 }
-h2.into {
-
+h2.intro {
+  color: gray;
 }
-img.into {
-
+img.intro {
+  filter: grayscale(100%);
 }
