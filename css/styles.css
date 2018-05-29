@@ -1,5 +1,9 @@
 .intro {
   font-style: italic;
-  filter: grayscale(100%);
   color: gray;
+}
+
+.yellow-highlight {
+  background-color: yellow;
+  border: 5px solid black;
 }
